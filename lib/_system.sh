@@ -9,7 +9,7 @@
 #######################################
 system_create_user() {
   print_banner
-  printf "${WHITE} 💻 Agora, vamos criar o usuário para deploywhaticketplus...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Agora, vamos criar o cliente para deploywhaticketplus...${GRAY_LIGHT}"
   printf "\n\n"
 
   sleep 2
